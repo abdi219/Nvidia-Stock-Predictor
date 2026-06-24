@@ -58,4 +58,4 @@ Hyperparameters:
 
 ## Conclusion
 
-Machine learning model captures general stock trends but is limited by market randomness. Further improvement can be achieved through better feature engineering and tuning.
+Machine learning model captures general stock trends but is limited by market randomness. The relatively higher error and moderate R² score can be attributed to the highly volatile and non-linear nature of NVIDIA stock, which experienced significant rapid growth and market-driven fluctuations during the period, making short-term prediction more challenging for traditional regression models. Further improvement can be achieved through better feature engineering and tuning.
